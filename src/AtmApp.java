@@ -4,5 +4,7 @@ public class AtmApp {
         //version1
         System.out.println("mht kodlarını yazdı.");
         //mht1
+        System.out.println();
+        //localde değişiklik yaptım.
     }
 }
