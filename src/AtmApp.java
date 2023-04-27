@@ -6,5 +6,6 @@ public class AtmApp {
         //mht1
         System.out.println();
         //localde değişiklik yaptım.
+        //remote da uzak depoda değişiklik yaptım
     }
 }
